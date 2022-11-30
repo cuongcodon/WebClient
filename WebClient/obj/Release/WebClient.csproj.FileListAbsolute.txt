@@ -1,0 +1,16 @@
+C:\Users\PhuLam\Downloads\WebClient\WebClient\bin\Release\WebClient.exe.config
+C:\Users\PhuLam\Downloads\WebClient\WebClient\bin\Release\WebClient.exe
+C:\Users\PhuLam\Downloads\WebClient\WebClient\bin\Release\WebClient.pdb
+C:\Users\PhuLam\Downloads\WebClient\WebClient\obj\Release\WebClient.csproj.AssemblyReference.cache
+C:\Users\PhuLam\Downloads\WebClient\WebClient\obj\Release\WebClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\PhuLam\Downloads\WebClient\WebClient\obj\Release\WebClient.csproj.CoreCompileInputs.cache
+C:\Users\PhuLam\Downloads\WebClient\WebClient\obj\Release\WebClient.exe
+C:\Users\PhuLam\Downloads\WebClient\WebClient\obj\Release\WebClient.pdb
+C:\Users\Home\Videos\WebClient\WebClient\bin\Release\WebClient.exe.config
+C:\Users\Home\Videos\WebClient\WebClient\bin\Release\WebClient.exe
+C:\Users\Home\Videos\WebClient\WebClient\bin\Release\WebClient.pdb
+C:\Users\Home\Videos\WebClient\WebClient\obj\Release\WebClient.csproj.AssemblyReference.cache
+C:\Users\Home\Videos\WebClient\WebClient\obj\Release\WebClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Videos\WebClient\WebClient\obj\Release\WebClient.csproj.CoreCompileInputs.cache
+C:\Users\Home\Videos\WebClient\WebClient\obj\Release\WebClient.exe
+C:\Users\Home\Videos\WebClient\WebClient\obj\Release\WebClient.pdb

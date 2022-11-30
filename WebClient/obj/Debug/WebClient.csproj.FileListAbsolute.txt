@@ -1,0 +1,8 @@
+C:\Users\Home\Videos\WebClient\WebClient\bin\Debug\WebClient.exe.config
+C:\Users\Home\Videos\WebClient\WebClient\bin\Debug\WebClient.exe
+C:\Users\Home\Videos\WebClient\WebClient\bin\Debug\WebClient.pdb
+C:\Users\Home\Videos\WebClient\WebClient\obj\Debug\WebClient.csproj.AssemblyReference.cache
+C:\Users\Home\Videos\WebClient\WebClient\obj\Debug\WebClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Videos\WebClient\WebClient\obj\Debug\WebClient.csproj.CoreCompileInputs.cache
+C:\Users\Home\Videos\WebClient\WebClient\obj\Debug\WebClient.exe
+C:\Users\Home\Videos\WebClient\WebClient\obj\Debug\WebClient.pdb
